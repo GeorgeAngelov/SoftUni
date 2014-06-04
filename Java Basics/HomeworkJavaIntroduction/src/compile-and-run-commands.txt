@@ -1,0 +1,7 @@
+On Windows:
+	cd C:\Users\Karmichle\workspace\Homework Java Introduction\src
+	javac SumTwoNumbers.java
+	java SumTwoNumbers
+On Linux:
+	javac -cp /path/to/jar/files SumTwoNumbers.java
+	java -cp .;/path/to/jar/files  SumTwoNumbers

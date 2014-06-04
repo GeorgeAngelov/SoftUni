@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/Karmichle/Downloads/itext-5.5.0.zip"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_05/lib/itextpdf-5.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/karmichle/Downloads/itext/itextpdf-5.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/karmichle/Downloads/itext/itextpdf-5.5.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/karmichle/Downloads/itext/itextpdf-5.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="/home/karmichle/Downloads/itext/itext-pdfa-5.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/karmichle/Downloads/itext/itext-pdfa-5.5.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/karmichle/Downloads/itext/itext-pdfa-5.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="/home/karmichle/Downloads/itext/itext-xtra-5.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/karmichle/Downloads/itext/itext-xtra-5.5.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/karmichle/Downloads/itext/itext-xtra-5.5.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
