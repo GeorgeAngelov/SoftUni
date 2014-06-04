@@ -1,0 +1,5 @@
+									C# and .NET Framework
+-----------------------------------------------------------------------------------------------------------
+.NET is an application development framework - it contains numerous libraries containing a range of functionality.
+C# is a strong Object Oriented programming language that is mostly built on the .NET framework.
+C# is the airplane and .NET is the runway.

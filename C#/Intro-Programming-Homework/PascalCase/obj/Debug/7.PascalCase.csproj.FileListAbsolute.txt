@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PascalCase\bin\Debug\PascalCase.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PascalCase\bin\Debug\PascalCase.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PascalCase\bin\Debug\PascalCase.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PascalCase\obj\Debug\PascalCase.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PascalCase\obj\Debug\PascalCase.pdb

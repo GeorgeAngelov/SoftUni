@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\15.Bits Exchange\bin\Debug\15.Bits Exchange.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\15.Bits Exchange\obj\Debug\15.Bits Exchange.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\15.Bits Exchange\obj\Debug\15.Bits Exchange.pdb

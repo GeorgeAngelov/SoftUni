@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\3.Circle Perimeter and Area\bin\Debug\3.Circle Perimeter and Area.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\3.Circle Perimeter and Area\bin\Debug\3.Circle Perimeter and Area.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\3.Circle Perimeter and Area\bin\Debug\3.Circle Perimeter and Area.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\3.Circle Perimeter and Area\obj\Debug\3.Circle Perimeter and Area.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\3.Circle Perimeter and Area\obj\Debug\3.Circle Perimeter and Area.pdb

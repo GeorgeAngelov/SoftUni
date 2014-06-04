@@ -1,0 +1,5 @@
+c:\users\george\documents\visual studio 2013\Projects\loops\2.Numbers_Not_Divisible_by 3_and_7\bin\Debug\2.Numbers_Not_Divisible_by 3_and_7.exe.config
+c:\users\george\documents\visual studio 2013\Projects\loops\2.Numbers_Not_Divisible_by 3_and_7\bin\Debug\2.Numbers_Not_Divisible_by 3_and_7.exe
+c:\users\george\documents\visual studio 2013\Projects\loops\2.Numbers_Not_Divisible_by 3_and_7\bin\Debug\2.Numbers_Not_Divisible_by 3_and_7.pdb
+c:\users\george\documents\visual studio 2013\Projects\loops\2.Numbers_Not_Divisible_by 3_and_7\obj\Debug\2.Numbers_Not_Divisible_by 3_and_7.exe
+c:\users\george\documents\visual studio 2013\Projects\loops\2.Numbers_Not_Divisible_by 3_and_7\obj\Debug\2.Numbers_Not_Divisible_by 3_and_7.pdb

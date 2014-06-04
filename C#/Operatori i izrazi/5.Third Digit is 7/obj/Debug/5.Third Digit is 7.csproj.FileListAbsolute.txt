@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\5.Third Digit is 7\bin\Debug\5.Third Digit is 7.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\5.Third Digit is 7\bin\Debug\5.Third Digit is 7.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\5.Third Digit is 7\bin\Debug\5.Third Digit is 7.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\5.Third Digit is 7\obj\Debug\5.Third Digit is 7.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\5.Third Digit is 7\obj\Debug\5.Third Digit is 7.pdb

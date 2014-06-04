@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\8.Numbers_from_1_to_n\bin\Debug\8.Numbers_from_1_to_n.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\8.Numbers_from_1_to_n\bin\Debug\8.Numbers_from_1_to_n.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\8.Numbers_from_1_to_n\bin\Debug\8.Numbers_from_1_to_n.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\8.Numbers_from_1_to_n\obj\Debug\8.Numbers_from_1_to_n.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\8.Numbers_from_1_to_n\obj\Debug\8.Numbers_from_1_to_n.pdb

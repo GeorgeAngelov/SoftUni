@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Boolean_variables\bin\Debug\Boolean_variables.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Boolean_variables\bin\Debug\Boolean_variables.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Boolean_variables\bin\Debug\Boolean_variables.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Boolean_variables\obj\Debug\Boolean_variables.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Boolean_variables\obj\Debug\Boolean_variables.pdb

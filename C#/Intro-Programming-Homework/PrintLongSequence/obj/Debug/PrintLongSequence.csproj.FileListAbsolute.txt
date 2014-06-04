@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

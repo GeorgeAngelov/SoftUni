@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\14.Print the ASCII Table\obj\Debug\14.Print the ASCII Table.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\14.Print the ASCII Table\obj\Debug\14.Print the ASCII Table.pdb

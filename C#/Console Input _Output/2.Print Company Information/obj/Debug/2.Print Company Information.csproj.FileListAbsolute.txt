@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\2.Print Company Information\bin\Debug\2.Print Company Information.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\2.Print Company Information\bin\Debug\2.Print Company Information.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\2.Print Company Information\bin\Debug\2.Print Company Information.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\2.Print Company Information\obj\Debug\2.Print Company Information.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\2.Print Company Information\obj\Debug\2.Print Company Information.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\2.Print Company Information\obj\Debug\2.Print Company Information.pdb

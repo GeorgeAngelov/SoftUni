@@ -1,0 +1,6 @@
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\6.Calculate N!over K!\bin\Debug\6.Calculate N!over K!.exe.config
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\6.Calculate N!over K!\obj\Debug\6.Calculate N!over K!.csprojResolveAssemblyReference.cache
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\6.Calculate N!over K!\bin\Debug\6.Calculate N!over K!.exe
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\6.Calculate N!over K!\bin\Debug\6.Calculate N!over K!.pdb
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\6.Calculate N!over K!\obj\Debug\6.Calculate N!over K!.exe
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\6.Calculate N!over K!\obj\Debug\6.Calculate N!over K!.pdb

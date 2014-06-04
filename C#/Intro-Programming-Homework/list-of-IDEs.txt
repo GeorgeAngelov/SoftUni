@@ -1,0 +1,21 @@
+								List of IDEs
+---------------------------------------------------------------------------------------------------------------------------
+	1. Oracle Netbeans 7 - It supports languages like Java, C/C++, Ruby, HTML5, PHP and more.
+Netbeans is extremely extensible via its plugin-centric design, allowing you to add additional language syntax support and libraries,
+among other things. Netbeans is free.
+
+	2. Eclipse - This IDE is quite comprehensive and even similar to Netbeans in a variety of ways, including its use of Java and plugin architecture.
+However, Eclipse as an IDE comes in a wild variety of flavors, catering to various needs and objectives in software development workflows. 
+It is also free.
+
+	3. PSPad - A code editor that support many different language such as C++,CSS, HTML, XHTML,
+Java, JavaScript, Perl, PHP, Python, SQL, TCL/TK, Unix ShellScript, VBScript, Visual Basic and more.
+Some features to mention: FTP Client, Macro Recorder, File Search/Replace, Code Explorer and more.
+
+	4. Aptana Studio - It is a very impressive and open source development tool that supports HTML5, CSS3, JavaScript and Ruby,
+Rails, PHP & Python on the server side.It has a "code assist" feature where you can find out details about functions,
+elements etc. You can stay synchronized with the server via FTP, SFTP and control your code with the help of an integrated debugger.
+
+	5. Notepad++ - Notepad++ is actually an advanced text editor and a must-have for every developer using Windows.
+It has syntax highlighters for every popular scripting language and it is usually a perfect fit for a 2nd IDE,
+for small updates or simpler codes. Multiple tabs can be created, macros can be used and there are many other features like code folding, advanced search, etc. 

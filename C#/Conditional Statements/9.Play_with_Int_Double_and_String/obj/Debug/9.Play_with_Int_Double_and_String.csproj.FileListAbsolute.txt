@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\9.Play_with_Int_Double_and_String\bin\Debug\9.Play_with_Int_Double_and_String.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\9.Play_with_Int_Double_and_String\bin\Debug\9.Play_with_Int_Double_and_String.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\9.Play_with_Int_Double_and_String\bin\Debug\9.Play_with_Int_Double_and_String.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\9.Play_with_Int_Double_and_String\obj\Debug\9.Play_with_Int_Double_and_String.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\9.Play_with_Int_Double_and_String\obj\Debug\9.Play_with_Int_Double_and_String.pdb

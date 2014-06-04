@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\11.Bank Account Data\bin\Debug\11.Bank Account Data.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\11.Bank Account Data\obj\Debug\11.Bank Account Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\11.Bank Account Data\obj\Debug\11.Bank Account Data.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\11.Bank Account Data\obj\Debug\11.Bank Account Data.pdb

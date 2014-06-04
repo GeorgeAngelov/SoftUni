@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\7.Point in a Circle\bin\Debug\7.Point in a Circle.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\7.Point in a Circle\bin\Debug\7.Point in a Circle.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\7.Point in a Circle\bin\Debug\7.Point in a Circle.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\7.Point in a Circle\obj\Debug\7.Point in a Circle.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\7.Point in a Circle\obj\Debug\7.Point in a Circle.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\7.Point in a Circle\obj\Debug\7.Point in a Circle.pdb

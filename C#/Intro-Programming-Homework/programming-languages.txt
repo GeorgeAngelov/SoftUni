@@ -1,0 +1,26 @@
+									Programming languages.
+----------------------------------------------------------------------------------------
+	1.Python is the most popular programming language for 2014.
+Python is better in readability and C# has more consistent syntax.
+Python is better in cross platform development and in ease of learning, where as
+C# is winner in standard library, language features, development process and tools,
+and performance.
+
+	2.Java - the second most popular programming language for 2014 does not allow 
+operator overloading and C# does. Java has primitive types as int, char, double and etc.
+Both have strict compiler conditions and excellent exception handling.
+
+	3.C++ is third in usage.C++ creates raw assemblies that run directly on the target platform and
+C# is a managed language that runs in a virtual machine, compiles down to a platform agnostic intermediate code.
+C# does not support multiple inheritance, C++ does.C# assemblies contain metadata about the code, 
+allowing for runtime inspection.C++ does not contain this metadata.
+
+	4.Ruby - Like C#, Ruby is a pure object-oriented language; in both languages, everything is an object. 
+Both languages use exception handling to notify errors, allow object introspection,
+both have automatic memory management through garbage collection and allow the creation of multithreaded applications.
+They are also very “hyped” languages, which have a huge level of support in the industry, by different vendors and communities.
+
+	5.JavaScript - JavaScript is a Scripting language executed by a browser, where as c# is full fleged language executed by .net framework.
+It could be used with any web tech, like PHP,ASP,ASP.net etc. JS  is used mainly for client side validations, 
+where as c# handles for your core business logics,mainly interacting to database.
+It  can be embedded into HTML,.asp,.aspx pages or an individual .js file could be created, whereas c# code  always creates a .cs file .

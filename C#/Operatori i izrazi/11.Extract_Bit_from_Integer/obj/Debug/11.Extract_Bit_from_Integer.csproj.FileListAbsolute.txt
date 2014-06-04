@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\11.Extract_Bit_from_Integer\bin\Debug\11.Extract_Bit_from_Integer.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\11.Extract_Bit_from_Integer\bin\Debug\11.Extract_Bit_from_Integer.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\11.Extract_Bit_from_Integer\bin\Debug\11.Extract_Bit_from_Integer.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\11.Extract_Bit_from_Integer\obj\Debug\11.Extract_Bit_from_Integer.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\11.Extract_Bit_from_Integer\obj\Debug\11.Extract_Bit_from_Integer.pdb

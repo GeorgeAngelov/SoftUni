@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\4.Number Comparer\bin\Debug\4.Number Comparer.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\4.Number Comparer\bin\Debug\4.Number Comparer.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\4.Number Comparer\bin\Debug\4.Number Comparer.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\4.Number Comparer\obj\Debug\4.Number Comparer.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\4.Number Comparer\obj\Debug\4.Number Comparer.pdb

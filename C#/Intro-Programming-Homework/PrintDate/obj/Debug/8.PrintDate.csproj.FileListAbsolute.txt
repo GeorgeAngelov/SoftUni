@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintDate\bin\Debug\PrintDate.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintDate\bin\Debug\PrintDate.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintDate\bin\Debug\PrintDate.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintDate\obj\Debug\PrintDate.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintDate\obj\Debug\PrintDate.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\7.Quotes in Strings\obj\Debug\7.Quotes in Strings.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\7.Quotes in Strings\obj\Debug\7.Quotes in Strings.pdb

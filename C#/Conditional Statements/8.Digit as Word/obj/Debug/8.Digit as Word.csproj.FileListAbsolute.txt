@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\8.Digit as Word\bin\Debug\8.Digit as Word.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\8.Digit as Word\bin\Debug\8.Digit as Word.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\8.Digit as Word\bin\Debug\8.Digit as Word.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\8.Digit as Word\obj\Debug\8.Digit as Word.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\8.Digit as Word\obj\Debug\8.Digit as Word.pdb

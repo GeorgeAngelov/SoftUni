@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Unicode Character\bin\Debug\Unicode Character.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Unicode Character\bin\Debug\Unicode Character.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Unicode Character\bin\Debug\Unicode Character.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Unicode Character\obj\Debug\Unicode Character.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Unicode Character\obj\Debug\Unicode Character.pdb

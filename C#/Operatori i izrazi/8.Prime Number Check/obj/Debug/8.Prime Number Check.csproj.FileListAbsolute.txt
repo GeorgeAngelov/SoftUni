@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\8.Prime Number Check\bin\Debug\8.Prime Number Check.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\8.Prime Number Check\bin\Debug\8.Prime Number Check.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\8.Prime Number Check\bin\Debug\8.Prime Number Check.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\8.Prime Number Check\obj\Debug\8.Prime Number Check.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\8.Prime Number Check\obj\Debug\8.Prime Number Check.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\8.Prime Number Check\obj\Debug\8.Prime Number Check.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\1.Odd or Even Integers\bin\Debug\1.Odd or Even Integers.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\1.Odd or Even Integers\obj\Debug\1.Odd or Even Integers.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\1.Odd or Even Integers\bin\Debug\1.Odd or Even Integers.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\1.Odd or Even Integers\bin\Debug\1.Odd or Even Integers.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\1.Odd or Even Integers\obj\Debug\1.Odd or Even Integers.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\1.Odd or Even Integers\obj\Debug\1.Odd or Even Integers.pdb

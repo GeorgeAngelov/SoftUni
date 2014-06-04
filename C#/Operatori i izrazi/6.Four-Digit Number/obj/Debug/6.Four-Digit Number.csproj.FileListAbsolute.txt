@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\6.Four-Digit Number\bin\Debug\6.Four-Digit Number.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\6.Four-Digit Number\obj\Debug\6.Four-Digit Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\6.Four-Digit Number\bin\Debug\6.Four-Digit Number.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\6.Four-Digit Number\bin\Debug\6.Four-Digit Number.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\6.Four-Digit Number\obj\Debug\6.Four-Digit Number.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\6.Four-Digit Number\obj\Debug\6.Four-Digit Number.pdb

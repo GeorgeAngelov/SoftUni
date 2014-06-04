@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\9.Trapezoids\bin\Debug\9.Trapezoids.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\9.Trapezoids\bin\Debug\9.Trapezoids.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\9.Trapezoids\obj\Debug\9.Trapezoids.pdb

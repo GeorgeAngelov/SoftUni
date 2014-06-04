@@ -1,0 +1,6 @@
+c:\users\george\documents\visual studio 2013\Projects\loops\Numbers from 1 to N\bin\Debug\Numbers from 1 to N.exe.config
+c:\users\george\documents\visual studio 2013\Projects\loops\Numbers from 1 to N\bin\Debug\Numbers from 1 to N.exe
+c:\users\george\documents\visual studio 2013\Projects\loops\Numbers from 1 to N\bin\Debug\Numbers from 1 to N.pdb
+c:\users\george\documents\visual studio 2013\Projects\loops\Numbers from 1 to N\obj\Debug\Numbers from 1 to N.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2013\Projects\loops\Numbers from 1 to N\obj\Debug\Numbers from 1 to N.exe
+c:\users\george\documents\visual studio 2013\Projects\loops\Numbers from 1 to N\obj\Debug\Numbers from 1 to N.pdb

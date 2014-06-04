@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\4.Multiplication Sign\bin\Debug\4.Multiplication Sign.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\4.Multiplication Sign\bin\Debug\4.Multiplication Sign.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\4.Multiplication Sign\bin\Debug\4.Multiplication Sign.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\4.Multiplication Sign\obj\Debug\4.Multiplication Sign.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\4.Multiplication Sign\obj\Debug\4.Multiplication Sign.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\4.Multiplication Sign\obj\Debug\4.Multiplication Sign.pdb

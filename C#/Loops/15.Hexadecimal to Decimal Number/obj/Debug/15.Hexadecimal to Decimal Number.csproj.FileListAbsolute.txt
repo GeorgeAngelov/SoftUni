@@ -1,0 +1,1 @@
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\15.Hexadecimal to Decimal Number\bin\Debug\15.Hexadecimal to Decimal Number.exe.config

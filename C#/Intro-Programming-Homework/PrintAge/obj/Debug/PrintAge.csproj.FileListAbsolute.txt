@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintAge\bin\Debug\PrintAge.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintAge\bin\Debug\PrintAge.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintAge\bin\Debug\PrintAge.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintAge\obj\Debug\PrintAge.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\PrintAge\obj\Debug\PrintAge.pdb

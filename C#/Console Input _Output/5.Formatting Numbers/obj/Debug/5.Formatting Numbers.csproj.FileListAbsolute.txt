@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\5.Formatting Numbers\bin\Debug\5.Formatting Numbers.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\5.Formatting Numbers\bin\Debug\5.Formatting Numbers.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\5.Formatting Numbers\bin\Debug\5.Formatting Numbers.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\5.Formatting Numbers\obj\Debug\5.Formatting Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\5.Formatting Numbers\obj\Debug\5.Formatting Numbers.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Console Input _Output\5.Formatting Numbers\obj\Debug\5.Formatting Numbers.pdb

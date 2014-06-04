@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\13.Comparing Floats\bin\Debug\13.Comparing Floats.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\13.Comparing Floats\bin\Debug\13.Comparing Floats.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\13.Comparing Floats\bin\Debug\13.Comparing Floats.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\13.Comparing Floats\obj\Debug\13.Comparing Floats.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\13.Comparing Floats\obj\Debug\13.Comparing Floats.pdb

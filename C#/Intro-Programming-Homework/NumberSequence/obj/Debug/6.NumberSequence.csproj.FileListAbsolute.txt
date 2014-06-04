@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\NumberSequence\obj\Debug\6.NumberSequence.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.pdb

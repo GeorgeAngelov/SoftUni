@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\16.Bit_Exchange_Advanced\bin\Debug\16.Bit_Exchange_Advanced.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\16.Bit_Exchange_Advanced\bin\Debug\16.Bit_Exchange_Advanced.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\16.Bit_Exchange_Advanced\bin\Debug\16.Bit_Exchange_Advanced.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\16.Bit_Exchange_Advanced\obj\Debug\16.Bit_Exchange_Advanced.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\16.Bit_Exchange_Advanced\obj\Debug\16.Bit_Exchange_Advanced.pdb

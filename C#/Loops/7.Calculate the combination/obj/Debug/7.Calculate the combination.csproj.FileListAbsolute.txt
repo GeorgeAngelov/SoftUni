@@ -1,0 +1,6 @@
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\7.Calculate the combination\bin\Debug\7.Calculate the combination.exe.config
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\7.Calculate the combination\bin\Debug\7.Calculate the combination.exe
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\7.Calculate the combination\bin\Debug\7.Calculate the combination.pdb
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\7.Calculate the combination\obj\Debug\7.Calculate the combination.csprojResolveAssemblyReference.cache
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\7.Calculate the combination\obj\Debug\7.Calculate the combination.exe
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\7.Calculate the combination\obj\Debug\7.Calculate the combination.pdb

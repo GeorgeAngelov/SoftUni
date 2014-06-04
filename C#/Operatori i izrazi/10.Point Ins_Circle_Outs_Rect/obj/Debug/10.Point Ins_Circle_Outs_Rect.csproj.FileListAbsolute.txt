@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\10.Point Ins_Circle_Outs_Rect\bin\Debug\10.Point Ins_Circle_Outs_Rect.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\10.Point Ins_Circle_Outs_Rect\obj\Debug\10.Point Ins_Circle_Outs_Rect.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\10.Point Ins_Circle_Outs_Rect\bin\Debug\10.Point Ins_Circle_Outs_Rect.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\10.Point Ins_Circle_Outs_Rect\bin\Debug\10.Point Ins_Circle_Outs_Rect.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\10.Point Ins_Circle_Outs_Rect\obj\Debug\10.Point Ins_Circle_Outs_Rect.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Operatori i izrazi\10.Point Ins_Circle_Outs_Rect\obj\Debug\10.Point Ins_Circle_Outs_Rect.pdb

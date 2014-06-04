@@ -1,0 +1,3 @@
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\Numbers from 1 to N\bin\Debug\Numbers from 1 to N.exe.config
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\Numbers from 1 to N\obj\Debug\Numbers from 1 to N.exe
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\Numbers from 1 to N\obj\Debug\Numbers from 1 to N.pdb

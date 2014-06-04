@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\5.The Biggest of 3 Numbers\bin\Debug\5.The Biggest of 3 Numbers.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\5.The Biggest of 3 Numbers\bin\Debug\5.The Biggest of 3 Numbers.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\5.The Biggest of 3 Numbers\bin\Debug\5.The Biggest of 3 Numbers.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\5.The Biggest of 3 Numbers\obj\Debug\5.The Biggest of 3 Numbers.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\5.The Biggest of 3 Numbers\obj\Debug\5.The Biggest of 3 Numbers.pdb

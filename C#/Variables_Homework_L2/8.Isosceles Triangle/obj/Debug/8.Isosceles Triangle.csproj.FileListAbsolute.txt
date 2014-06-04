@@ -1,0 +1,5 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\8.Isosceles Triangle\bin\Debug\8.Isosceles Triangle.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\8.Isosceles Triangle\bin\Debug\8.Isosceles Triangle.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\8.Isosceles Triangle\bin\Debug\8.Isosceles Triangle.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\8.Isosceles Triangle\obj\Debug\8.Isosceles Triangle.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\8.Isosceles Triangle\obj\Debug\8.Isosceles Triangle.pdb

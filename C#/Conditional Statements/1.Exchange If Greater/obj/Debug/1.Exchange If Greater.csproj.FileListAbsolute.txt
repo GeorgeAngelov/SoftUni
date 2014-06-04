@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\1.Exchange If Greater\bin\Debug\1.Exchange If Greater.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\1.Exchange If Greater\bin\Debug\1.Exchange If Greater.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\1.Exchange If Greater\bin\Debug\1.Exchange If Greater.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\1.Exchange If Greater\obj\Debug\1.Exchange If Greater.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\1.Exchange If Greater\obj\Debug\1.Exchange If Greater.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Conditional Statements\1.Exchange If Greater\obj\Debug\1.Exchange If Greater.pdb

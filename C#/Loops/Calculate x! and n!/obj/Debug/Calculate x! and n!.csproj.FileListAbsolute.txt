@@ -1,0 +1,6 @@
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\Calculate x! and n!\bin\Debug\Calculate x! and n!.exe.config
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\Calculate x! and n!\bin\Debug\Calculate x! and n!.exe
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\Calculate x! and n!\bin\Debug\Calculate x! and n!.pdb
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\Calculate x! and n!\obj\Debug\Calculate x! and n!.csprojResolveAssemblyReference.cache
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\Calculate x! and n!\obj\Debug\Calculate x! and n!.exe
+C:\Users\george\Documents\Visual Studio 2013\Projects\loops\Calculate x! and n!\obj\Debug\Calculate x! and n!.pdb

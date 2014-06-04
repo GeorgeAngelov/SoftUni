@@ -1,0 +1,6 @@
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Variables_Homework_L2\obj\Debug\1.Declare Variables.csprojResolveAssemblyReference.cache
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Variables_Homework_L2\bin\Debug\Variables_Homework_L2.exe.config
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Variables_Homework_L2\bin\Debug\Variables_Homework_L2.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Variables_Homework_L2\bin\Debug\Variables_Homework_L2.pdb
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Variables_Homework_L2\obj\Debug\Variables_Homework_L2.exe
+D:\SoftUni\vavedenie v programiraneto\Homework\Variables_Homework_L2\Variables_Homework_L2\Variables_Homework_L2\obj\Debug\Variables_Homework_L2.pdb
