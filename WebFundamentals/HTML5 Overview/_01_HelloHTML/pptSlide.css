@@ -1,0 +1,40 @@
+﻿body{
+    background-image:url("images/slidebackgroung.jpg");
+    background-repeat: no-repeat;
+}
+    h1 {
+        color: #F3BE60;
+    }
+    ul li {
+        list-style-type: square;
+        color: #E7AA50;
+        font-size: 20px;
+    }
+    ul li span {
+        color: white;
+    }
+    div {
+        width: 600px;
+        height: 60px;
+        background-color: #20201E;
+        margin-left: 20px;
+        margin-top:10px;
+        margin-bottom:10px;
+        border: 1px solid;
+        border-color: white;
+        color: #FBEEC9;
+        opacity: 0.6;
+        }
+    img {
+        position: fixed;
+        top: 5px;
+        left: 675px;
+        width: 100px;
+        height: 50px;
+        }
+    sub{
+        position: fixed;
+        left:775px;
+        bottom:240px;
+        color:white;
+    }

@@ -57,6 +57,16 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="02Paragraphs and Images of Text.html" />
+    <Content Include="01HelloHTML.html" />
+    <Content Include="03RunnersHome.html" />
+    <Content Include="04HTMLLists.html" />
+    <Content Include="05PowerPointSlide.html" />
+    <Content Include="06Friends.html" />
+    <Content Include="06Home.html" />
+    <Content Include="06Profile.html" />
+    <Content Include="pptSlide.css" />
+    <Content Include="SocialNetworkStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

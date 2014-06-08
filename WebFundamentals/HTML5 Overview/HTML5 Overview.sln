@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_HelloHTML", "_01_HelloHTML\_01_HelloHTML.csproj", "{4544559B-56F6-469B-A438-9653BD18DB68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5 Overview", "_01_HelloHTML\HTML5 Overview.csproj", "{4544559B-56F6-469B-A438-9653BD18DB68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
