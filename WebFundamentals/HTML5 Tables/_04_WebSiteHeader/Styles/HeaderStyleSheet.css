@@ -1,0 +1,57 @@
+﻿body {
+    font-family:Calibri;
+    font-size:18px;
+    color:white;
+    font-weight:bold;
+    text-align:right;
+}
+
+table{
+    width:100%;
+    background-color: #234465;
+}
+#searchBox,#contacts{
+    text-align:left;
+}
+table tr td nav ul li {
+    list-style-type:none;
+    display:inline-block;
+    margin-left:20px;
+    vertical-align:middle;
+}
+table tr td nav ul li ul.sub-nav-list {
+    position: absolute;
+    margin-top:8px;
+    display: none;
+    background-color: #234465;
+    width:320px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    text-align:left;
+    padding-left:0px;
+}
+table tr td nav ul li:hover > a + ul {
+    display: block;
+    text-align:left;
+}
+ a{
+    color:white;
+    text-decoration:none;
+
+}
+table tr td nav ul li ul.sub-nav-list li:hover {
+    background:#ff9c00;
+    cursor:pointer;
+}
+table tr td form input:first-child {
+        height:32px;
+        border-top-left-radius:10px;
+        border-bottom-left-radius:10px;
+        padding-top:22px;
+        font-size:18px;
+        vertical-align:central;
+        text-align:right;
+}
+#searchButton{
+    margin-top:5px;
+}

@@ -1,0 +1,9 @@
+﻿ #nestedtable {
+            width: 300px;
+            font-size: 55px;
+            margin: 5px;
+        }
+        table, th, td {
+            border: 2px solid #716363;
+            border-spacing: 3px;
+        }
