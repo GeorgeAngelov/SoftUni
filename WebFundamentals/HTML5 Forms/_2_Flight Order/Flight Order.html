@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Flight Order</title>
+    <link href="Styles/OrderStyles.css" rel="stylesheet" />
+</head>
+<body>
+    <section>
+        <h1><em>FLIGTH ORGER</em></h1>
+        <form method="get">
+           <table border="0">
+               <tr>
+                   <td colspan="3"><label>From:</label></td>
+                   <td colspan="2"><label>To:</label></td>
+               </tr>
+               <tr>
+                   <td colspan="3">
+                       <select autofocus="autofocus">
+                           <option>enter a city</option>
+                           <option>New Yourk</option>
+                           <option>Pekin</option>
+                           <option>Tokyo</option>
+                           <option>San Marino</option>
+                       </select>
+                   </td>
+                   <td colspan="2">
+                      <select>
+                           <option>enter a city</option>
+                           <option>Maroko</option>
+                           <option>Rome</option>
+                           <option>Sofia</option>
+                           <option>Venecia</option>
+                       </select>
+                   </td>
+               </tr>
+               <tr>
+                   <td colspan="3"></td>
+                   <td colspan="2"><input type="checkbox" id="checkbox" /><label>Prefer directs</label></td>
+               </tr>
+               <tr>
+                   <td colspan="3">
+                       <label>Departure Date:</label>
+                   <br />
+                   <input type="date"id="depDate" />
+                   </td>
+                   <td>
+                       <label>Time Interval:</label>
+                       <br />
+                       <input type="time" class="time" />
+                       <input type="time" class="time" />
+                   </td>
+               </tr>
+               <tr>
+                   <td colspan="3">
+                       <label>Return Date:</label>
+                       <br />
+                       <input type="date" id="depDate" />
+                   </td>
+                   <td>
+                       <label>Time Interval:</label>
+                       <br />
+                       <input type="time" class="time" />
+                       <input type="time" class="time" />
+                   </td>
+               </tr>
+               <tr>
+                   <td>
+                       <label>12+</label>
+                       <br />
+                       <input type="number" id="12+" value="0" class="zone" />
+                   </td>
+                   <td>
+                       <label>2-12</label>
+                       <br />
+                       <input type="number" id="2-12" value="0" class="zone" />
+                   </td>
+                   <td>
+                       <label>0-2</label>
+                       <br />
+                       <input type="number" id="0-2" value="0" class="zone" />
+                   </td>
+                   <td colspan="2">
+                       <label>Choose class</label>
+                       <br />
+                       <select>
+                           <option>choose class</option>
+                           <option>First Class</option>
+                           <option>Bussines Class</option>
+                           <option>Normal Class</option>
+                       </select>
+                   </td>
+               </tr>
+               <tr>
+                   <td colspan="3"></td>
+                   <td><input type="submit" value="Search" id="search"/></td>
+               </tr>
+           </table>
+        </form>
+    </section>
+</body>
+</html>

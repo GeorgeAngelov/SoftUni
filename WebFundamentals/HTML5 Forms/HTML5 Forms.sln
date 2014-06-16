@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_SimpleForms", "_01_SimpleForms\_01_SimpleForms.csproj", "{2EEAECB5-7AB7-4866-8FA5-9940516DBAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_Flight Order", "_2_Flight Order\_02_Flight Order.csproj", "{8688AE51-C9B9-41AF-9D24-779D92D89940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_WorldPressTheme", "_03_WorldPressTheme\_03_WorldPressTheme.csproj", "{A682399A-22AE-4E9B-B94B-BDB51E5838D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EEAECB5-7AB7-4866-8FA5-9940516DBAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEAECB5-7AB7-4866-8FA5-9940516DBAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEAECB5-7AB7-4866-8FA5-9940516DBAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEAECB5-7AB7-4866-8FA5-9940516DBAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8688AE51-C9B9-41AF-9D24-779D92D89940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8688AE51-C9B9-41AF-9D24-779D92D89940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8688AE51-C9B9-41AF-9D24-779D92D89940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8688AE51-C9B9-41AF-9D24-779D92D89940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A682399A-22AE-4E9B-B94B-BDB51E5838D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A682399A-22AE-4E9B-B94B-BDB51E5838D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A682399A-22AE-4E9B-B94B-BDB51E5838D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A682399A-22AE-4E9B-B94B-BDB51E5838D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

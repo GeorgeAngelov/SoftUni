@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Register/Log-In</title>
+    <link href="styles/SimpeFormStyles.css" rel="stylesheet" />
+    <script src="JavaScript/SimpleFormJS.js"></script>
+</head>
+<body>
+        <h1>Enter the system</h1>
+        It is necessary to login in Your account in order to sign in for a course.<br />
+            <form method="get" class="Register" >
+                <fieldset>
+                    <h4 id="regisH">&nbsp;ARE YOU NEW?<span>REGISTER</span></h4>
+                    <input type="text" id="userName" name="addUser" placeholder="User name" required="true" autofocus="autofocus" /><br />
+                    <input type="email" id="Email" name="addEmail" placeholder="Email" autocomplete="on" required="true" /><br />
+                    <input type="password" id="pass" required="true" placeholder="Password" /><br />
+                    <input type="password" id="confPass" required="true" placeholder="Confirm Password" onchange="checkPasswordMatch()"/><br />
+                    <input type="submit" id="buttonReg" value="Register">
+                </fieldset>
+            </form>
+            <form class="Login" method="get">
+                <fieldset>
+                    <h4 id="logH">&nbsp;ALREADY A STUDENT?LOGIN</h4>
+                    <input type="text" id="userNameLI" name="enterUser" placeholder="User name" required="true" /><br />
+                    <input type="password" id="passLI" required="true" placeholder="Password" /><br />
+                    <input type="checkbox" /><label><sup>Remember me?</sup></label>
+                    <input type="submit" id="buttonLog" value="Login" /><br /><br />
+                    <a href="">Forgot Password</a>
+                </fieldset>
+            </form>
+</body>
+</html>

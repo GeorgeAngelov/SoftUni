@@ -1,0 +1,89 @@
+﻿body{
+    background-color:#EEEEEE;
+    font-family:'PT Sans', tahoma, sans-serif;
+}
+h1{
+    color: #234465;
+    font-size:24px;
+}
+h4{
+    
+}
+form.Register{
+    background-color:#EEEEEE;
+    width:35%;
+}
+fieldset {
+    border:0;
+    width:280px;
+    padding:8px;
+}
+#Login{
+    background-color:#234465;
+}
+form{
+    width:35%;
+    height:290px;
+}
+input{
+    margin:5px;
+    width:400px;
+    height:25px;
+    padding:8px;
+}
+input[type=submit]{
+    width:130px;
+    height:40px;
+    float:right;
+    cursor:pointer;
+}
+label{
+    margin:0;
+    padding:0;
+    color:white;
+    font-weight:bold;
+    font-size:18px;
+}
+input[type=checkbox]{
+    width:20px;
+    height:20px;
+}
+#buttonReg{
+    border: 2px solid #234465;
+    color:#234465;
+    background-color:#EEEEEE;
+    float:right;
+    font-size:20px;
+    float:right;
+}
+#buttonLog{
+    border: 2px solid #DB8E10;
+    color:white;
+    background-color:#234465;
+    float:right;
+    font-size:20px;
+    float:right;
+}
+
+a{
+    color:white;
+    position:absolute;
+    right:28px;
+}
+form.Login{
+    background-color:#234465;
+    float:right;
+    height:333px;
+    position:absolute;
+    top:12%;
+    left:35%;
+}
+span{
+    color:#234465;
+}
+#regisH{
+    color:#636363;
+}
+#logH{
+    color:white;
+}
