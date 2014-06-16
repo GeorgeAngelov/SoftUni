@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_Flight Order", "_2_Flig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_WorldPressTheme", "_03_WorldPressTheme\_03_WorldPressTheme.csproj", "{A682399A-22AE-4E9B-B94B-BDB51E5838D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_Fakebook", "_04_Fakebook\_04_Fakebook.csproj", "{AC9A51C6-6635-47FB-A0CA-4999C3CC7F8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A682399A-22AE-4E9B-B94B-BDB51E5838D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A682399A-22AE-4E9B-B94B-BDB51E5838D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A682399A-22AE-4E9B-B94B-BDB51E5838D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9A51C6-6635-47FB-A0CA-4999C3CC7F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9A51C6-6635-47FB-A0CA-4999C3CC7F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9A51C6-6635-47FB-A0CA-4999C3CC7F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9A51C6-6635-47FB-A0CA-4999C3CC7F8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
