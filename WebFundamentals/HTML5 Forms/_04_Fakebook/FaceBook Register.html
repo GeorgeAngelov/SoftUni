@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Fakebook - Register</title>
+    <link href="styles/fakebookStyles.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1>fakebook<span>&reg;</span></h1>
+        <h2>Registration</h2>
+        <h3>It is safe and it will always be!</h3>
+    </header>
+        <form method="get">
+            <fieldset id="nonImportant">
+                <legend>None-Important information</legend>
+                <input type="text" autofocus="autofocus" placeholder="First Name" name="FirstName" />
+                <input type="text" placeholder="Last Name" name="LastName"/><br />
+                <input type="email" id="email" placeholder="Your Email" name="Email"/>
+                <input type="tel" id="tel" placeholder="Phone Number" name="Phone"/><br />
+                <input type="password" id="pass" required="true" name="pass" placeholder="Your Password"/>
+                <input type="url" id="url" placeholder="Website" name="WebSite"/><br />
+                <label>&nbsp;Birthday</label><br />
+                <input type="date" name="Birthday" /><br />
+                <input type="radio" name="Female" value="Female" />Female
+                <input type="radio" name="Male" value="Male" />Male
+                <input type="radio" name="Other" value="Other" checked />Other
+            </fieldset>
+            <fieldset id="Important">
+                <legend>Important Information *Required</legend>
+                <select>
+                    <option>Country</option>
+                    <option>Bulgaria</option>
+                    <option>USA</option>
+                    <option>UK</option>
+                    <option>Canada</option>
+                </select>
+                <input type="text" name="Village" placeholder="Village" required="required" />
+                <input type="text" name="District" placeholder="District" required="required" /><br />
+                <input type="text" name="Street" placeholder="Street" required="required" />
+                <input type="number" placeholder="Nr" name="Nr" required="required" />
+                <input type="number" placeholder="Floor" name="Floor" required="required" />
+                <input type="number" placeholder="Ap Nr" name="ApNr" required="required" /><br />
+                <label>&nbsp;Door Color</label><br />
+                <input type="color" name="DoorColor" value="#FF80C0" required="required" />
+                <input type="number" id="WaterMeter" placeholder="Water Meter Nr" required="required" />
+                <select required="required">
+                    <option>Aunt Panties`Size</option>
+                    <option>10"</option>
+                    <option>20"</option>
+                    <option>30"</option>
+                    <option>40"</option>
+                </select><br />
+                <label>More Personal information</label><br />
+                <textarea name="PersonalInfo" id="PersInf" rows="5" placeholder="Give Us More Information!!!" required="required"></textarea>
+            </fieldset>
+            <input type="reset" value="Clear Form">
+            <input type="submit" value="Register">
+        </form>
+</body>
+</html>
