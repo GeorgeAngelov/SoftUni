@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_WorldPressTheme", "_03_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_Fakebook", "_04_Fakebook\_04_Fakebook.csproj", "{AC9A51C6-6635-47FB-A0CA-4999C3CC7F8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05_LaptopChoice", "_05_LaptopChoice\_05_LaptopChoice.csproj", "{DA18CFD3-D285-49BD-A53B-39099FBF4780}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AC9A51C6-6635-47FB-A0CA-4999C3CC7F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC9A51C6-6635-47FB-A0CA-4999C3CC7F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC9A51C6-6635-47FB-A0CA-4999C3CC7F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA18CFD3-D285-49BD-A53B-39099FBF4780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA18CFD3-D285-49BD-A53B-39099FBF4780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA18CFD3-D285-49BD-A53B-39099FBF4780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA18CFD3-D285-49BD-A53B-39099FBF4780}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
