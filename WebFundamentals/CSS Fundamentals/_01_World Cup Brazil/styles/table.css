@@ -1,0 +1,180 @@
+﻿
+body {
+    background-color:#00923E;
+    font-family: Calibri;
+}
+thead{
+    background-color:#F8C711;
+    font-size:20px;
+    font-weight:bold;
+}
+tbody tr:nth-child(even){
+    background-color:#C8C8C8;
+}
+tbody tr:nth-child(odd) {
+    background-color: white;
+}
+table, thead, td {
+    border: solid black 1px;
+}
+table{
+    border-radius:10px;
+    border-spacing:0;
+}
+td{
+    margin:0;
+    padding:3px;
+}
+table tr:nth-child(1) td:nth-child(1) div.image {
+	content:url(../images/brasil.png);
+	float: right;
+	margin-left: 5px;
+    margin-bottom:4px;
+}
+
+table tr:nth-child(2) td:nth-child(1) div.image {
+	content:url(../images/spain.png);
+	float: right;
+	margin-left: 5px;
+    margin-bottom:4px;
+}
+
+table tr:nth-child(3) td:nth-child(1) div.image {
+	content:url(../images/italy.png);
+	float: right;
+	margin-left: 5px;
+    margin-bottom:4px;
+}
+
+table tr:nth-child(4) td:nth-child(1) div.image {
+	content:url(../images/argentina.png);
+	float: right;
+	margin-left: 5px;
+    margin-bottom:4px;
+}
+
+table tr:nth-child(5) td:nth-child(1) div.image {
+	content:url(../images/germany.png);
+	float: right;
+	margin-left: 5px;
+    margin-bottom:4px;
+}
+
+table tr:nth-child(1) td:nth-child(3) div.image {
+	content:url(../images/mexico.png);
+	float: left;
+	margin-right: 5px;
+    margin-bottom:4px;
+}
+
+table tr:nth-child(2) td:nth-child(3) div.image {
+	content:url(../images/netherlands.png);
+	float: left;
+	margin-right: 5px;
+    margin-bottom:4px;
+}
+
+table tr:nth-child(3) td:nth-child(3) div.image {
+	content:url(../images/england.png);
+	float: left;
+	margin-right: 5px;
+    margin-bottom:4px;
+}
+
+table tr:nth-child(4) td:nth-child(3) div.image {
+	content:url(../images/bosnia-herz.png);
+	float: left;
+	margin-right: 5px;
+    margin-bottom:4px;
+}
+
+table tr:nth-child(5) td:nth-child(3) div.image {
+	content:url(../images/portugal.png);
+	float: left;
+	margin-right: 5px;
+    margin-bottom:4px;
+}
+tbody{
+    font-size:13px;
+}
+tbody tr td:nth-child(1){
+    width:120px;
+    text-align:right;
+    padding-top:4px;
+}
+tbody tr td:nth-child(3){
+    padding-top:4px;
+    width:130px;
+}
+tbody tr td:nth-child(2){
+    text-align:center;
+    width:60px;
+}
+tbody tr td:nth-child(4){
+    text-align:center;
+}
+tbody tr td:nth-child(5){
+    text-align:right;
+}
+thead tr td:nth-child(1){
+    text-align:right;
+    border-top-left-radius:10px;
+}
+thead tr td:nth-child(3){
+    text-align:left;
+}
+thead td{
+    text-align:center;
+    padding:2px;
+}
+thead tr td:nth-child(5){
+    border-top-right-radius:10px;
+}
+thead tr td:nth-child(6){
+    padding:10px;
+}
+input.goals-count {
+	height: 32px;
+	width: 32px;
+	background: #dcdcdc;
+	border: 1px solid #a9a9a9;
+	color: red;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+}
+input[type="submit"]:disabled.image:hover {
+	border-radius: 30px;
+	opacity: .5;
+}
+
+input[type="submit"].image:hover {
+	border-radius: 30px;
+	opacity: .9;
+}
+input[type="submit"].image.enabled:active {
+	background:url(../images/green-btn-pressed.png);
+	border: 1px solid darkgrey;
+	border-radius: 30px;
+}
+input[type="submit"]:disabled.image {
+	background: url(../images/red-btn.png);
+	height: 46px;
+	width: 46px;
+	border: none;
+	background-color: none;
+}
+
+input[type="submit"].image {
+	background: url(../images/green-btn.png);
+	height: 46px;
+	width: 46px;
+	border: none;
+	background-color: none;
+}
+tbody tr:nth-child(5) td:nth-child(1){
+    border-bottom-left-radius:10px;
+}
+tbody tr:nth-child(5) td:nth-child(8){
+    border-bottom-right-radius:10px;
+}
